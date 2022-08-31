@@ -15,10 +15,11 @@ public class GeneralConfiguration {
 		return " ( Desenvolvedor: jHenrique ) ";
 	}
 
+	/*
 	@Bean
 	public CommandLineRunner executar() {
 		return args -> {
 			System.out.printf("O profife que está sendo exercutado é : %s", ambiente );
 		};
-	}
+	}*/
 }
